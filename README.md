@@ -4,7 +4,7 @@
 
 
 
-#Representation of GUI
+# Representation of GUI
 
 
 ![WhatsApp Image 2025-01-03 at 22 19 42_73a2dc51](https://github.com/user-attachments/assets/d6ceb411-6a59-4185-8d86-027c2db525d9)
