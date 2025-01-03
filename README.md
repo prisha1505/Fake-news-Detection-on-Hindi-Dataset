@@ -1,5 +1,8 @@
 # Fake-news-Detection-on-Hindi-Dataset
 
+## Overview
+Fake news is a pervasive problem in the digital age, influencing public opinion and causing misinformation on a massive scale. This project, TruthSeeker, focuses on building a reliable Fake News Detection System for Hindi news articles. The solution utilizes Natural Language Processing (NLP) techniques and machine learning models to classify Hindi news as either "Fake" or "Real."
+
 ![hindi_fake_news_architecture](https://github.com/user-attachments/assets/be3733c9-2d08-49ef-ab76-faf9f706ae1b)
 
 
